@@ -18,7 +18,7 @@ or embarrassing social media posts (*If you're unlucky, this could cost you your
 
 #### So what exactly makes a strong password? 
 
-There are three criteria you must consider when creating a password. So first of all, there is the obvious (although not so obvious that everyone practices it), you want 
+There are three criteria you must consider when creating a password. First of all, there is the obvious (although not so obvious that everyone practices it), you want 
 to make your password as complicated as possible (*Length, and a combiniation of numbers, symbols, and mixed cases*), **while still being able to remember it**.
 Secondly, you do not want to reuse your password on other accounts. This will give the would-be attacker access to multiple accounts if he gets ahold
 of it. But this leads to the issue of being able to remember the password each time you change it. And Thirdly, you want to change your password over time. 
