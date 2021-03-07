@@ -13,10 +13,10 @@ There are Quite a few options available now. I have narrowed it down to **3** ca
 ### First, you want to protect your passwords.
 
 The password is your last defense against a cyberattack. It can be what stands between you and identity theft,
-the loss of thousands of dollars (*really you could lose it all. even more than what you have.*), ruined credit (debt out of nowhere),
-or embarrassing social media posts.
+the loss of thousands of dollars (*really you could lose it all. even more than what you have.*), ruined credit (*debt out of nowhere*),
+or embarrassing social media posts (*If you're unlucky, this could cost you your job*).
 
-So what exactly makes a strong password? 
+#### So what exactly makes a strong password? 
 
 There are three criteria you must consider when creating a password. So first of all, there is the obvious (although not so obvious that everyone practices it), you want 
 to make your password as complicated as possible (*Length, and a combiniation of numbers, symbols, and mixed cases*), **while still being able to remember it**.
@@ -26,11 +26,18 @@ a password is always only a temporary protection. If someone wants to crack your
 or if you use a common password, use a dictionary attack. These tactics are simply guessing based on randomness or using a list
 of leaked passwords hoping you dont think too differently from others online (this tactic is very effective).
 
-So how does one meet the aforementioned criteria, while keeping track of our passwords?
+#### So how does one meet the aforementioned criteria, while keeping track of our passwords?
 
 The solution is a password manager. A password manager is a program that saves all of your passwords for various accounts and can tie into your
-mobile device, desktop, and web browser.
+mobile device, desktop, and web browser. So this only leaves you with **1** password to remember and allows you to make it as complicated as possible
+since it is only 1 password[^1]. 
+
+#### Are Password Managers Reliable? And How Does One Get A Password Manager?
+
+
 
 ### Second, you want to obscure your traffic.
 
 ### Third, you want a reliable browser.
+
+[^1] you will want to change this password regularly as well. the more often, the better.
