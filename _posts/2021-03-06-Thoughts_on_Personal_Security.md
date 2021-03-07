@@ -34,7 +34,7 @@ since it is only 1 password [^1].
 
 #### Are Password Managers Reliable? And How Does One Get A Password Manager?
 
-Password managers are very reliable. They will have End-to-end Encryption, which means only the sender and receiver with the proper encryption keys can read the communication. So, in theory, even the people running the servers cannot see your messages. That means, that if one of the companies hosting your passwords gets hacked, the hacker will still need your master password to look into your vault and get your passwords.
+Password managers are very reliable. They have End-to-end Encryption (*at least the PM's I will be suggesting do*), which means only the sender and receiver with the proper encryption keys can read what is being communicated (the information containing your passwords). So, in theory, even the people running the servers cannot see your messages. That means, that if one of the companies hosting your passwords gets hacked, the hacker will still need your master password to look into your vault and get your passwords.
 
 A few of the more popular and reputable passwords managers are [LastPass](https://www.lastpass.com/), [BitWarden](https://bitwarden.com/), and [1Password](https://1password.com/).
 
