@@ -46,7 +46,12 @@ So now you're probably thinking, then whats the point of a password manager now?
 
 If the authentication app is still not secure enough for you, you can use a yubikey which is a physical USB key that contains the necessary encryption keys to authenticate you. There are even USB keys with finger print readers on them for further security. In most cases this is overkill.
 
-### Second, you want to obscure your traffic.
+### Second, you want to obscure your internet traffic.
+
+
+However, the dangers are not limited to public wifi. If one is not careful with their router settings, their home wifi can fairly easily be hacked, and the wouldbe attacker can get all the information they want from your traffic or keystrokes.
+
+#### So how does one protect their 
 
 ### Third, you want a reliable browser.
 
