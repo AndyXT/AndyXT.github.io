@@ -48,6 +48,7 @@ If the authentication app is still not secure enough for you, you can use a yubi
 
 ### Second, you want to obscure your internet traffic.
 
+One of the most risky things you can do is connect to public wifi. This opens you up for a plethora of attacks. Someone can easily intercept your traffic, and see every key you enter on your keyboard. However, it's difficult not to use public wifi in many cases. Especially for a student looking for a quiet place to study, if one is traveling for work, or if one is in a foreign country. In each cases using data can be prohibitively expensive. 
 
 However, the dangers are not limited to public wifi. If one is not careful with their router settings, their home wifi can fairly easily be hacked, and the wouldbe attacker can get all the information they want from your traffic or keystrokes.
 
