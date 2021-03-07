@@ -10,7 +10,7 @@ And its really amazing how little technical knowledge one needs nowadays to keep
 
 There are Quite a few options available now. I have narrowed it down to **3** categories.
 
-## First, you want to protect your passwords.
+### First, you want to protect your passwords.
 
 The password is your last defense against a cyberattack. It can be what stands between you and identity theft,
 the loss of thousands of dollars (*really you could lose it all. even more than what you have.*), ruined credit (debt out of nowhere),
@@ -31,6 +31,6 @@ So how does one meet the aforementioned criteria, while keeping track of our pas
 The solution is a password manager. A password manager is a program that saves all of your passwords for various accounts and can tie into your
 mobile device, desktop, and web browser.
 
-## Second, you want to obscure your traffic.
+### Second, you want to obscure your traffic.
 
-## Third, you want a reliable browser.
+### Third, you want a reliable browser.
