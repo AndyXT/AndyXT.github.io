@@ -30,7 +30,7 @@ of leaked passwords hoping you dont think too differently from others online (th
 
 The solution is a password manager. A password manager is a program that saves all of your passwords for various accounts and can tie into your
 mobile device, desktop, and web browser. So this only leaves you with **1** password to remember and allows you to make it as complicated as possible
-since it is only 1 password[^1]. 
+since it is only 1 password [^1]. 
 
 #### Are Password Managers Reliable? And How Does One Get A Password Manager?
 
