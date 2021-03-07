@@ -1,4 +1,4 @@
-# Should You Be Worried About Your Security Online? [**In Progress**]
+# Should You Be Worried About Your Online Security? [**In Progress**]
 
 1. TOC
 {:toc}
