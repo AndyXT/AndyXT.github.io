@@ -29,7 +29,7 @@ of leaked passwords hoping you dont think too differently from others online (th
 #### So how does one meet the aforementioned criteria, while keeping track of our passwords?
 
 The solution is a password manager. A password manager is a program that saves all of your passwords for various accounts and can tie into your
-mobile device, desktop, and web browser. So this only leaves you with **1** password to remember and allows you to make it as complicated as possible
+mobile device, desktop, and web browser. With the click of a button, it will fill in your passwords for you. Many of us already use one built into our browsers or phones. But sometimes this ties us to a specific ecosystem like google or apple. A good password manager can be independent and multi-platform. The power of a password manager is that it leaves you with only **1** password to remember, which allows you to make it as complicated as possible
 since it is only 1 password [^1]. 
 
 #### Are Password Managers Reliable? And How Does One Get A Password Manager?
