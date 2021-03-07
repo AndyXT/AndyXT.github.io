@@ -40,4 +40,4 @@ since it is only 1 password[^1].
 
 ### Third, you want a reliable browser.
 
-[^1] you will want to change this password regularly as well. the more often, the better.
+[^1]: You will want to change this password regularly as well. the more often, the better.
