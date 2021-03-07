@@ -11,11 +11,11 @@ description: Random Stuff. IDK what this could be yet.
 github_username: AndyXT
 
 # Email and twitter are optional:
-email:
+email: axtreto@me.com
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
