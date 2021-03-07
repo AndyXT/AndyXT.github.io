@@ -40,4 +40,5 @@ since it is only 1 password [^1].
 
 ### Third, you want a reliable browser.
 
+### Bonus: Encrypted Messenger/Email
 [^1]: You will want to change this password regularly as well. the more often, the better.
