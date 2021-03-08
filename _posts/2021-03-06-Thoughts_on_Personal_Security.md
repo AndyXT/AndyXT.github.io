@@ -62,7 +62,9 @@ A VPN basically allows you to surf the web by going through a remote server that
 
 #### Are there any downsides to a VPN?
 
-Yes, there is some give and take with a VPN. For instance, you will lose some speed while using a VPN, as it is constantly encrypting and decrypting your data.
+Yes, there is some give and take with a VPN. For instance, you will lose some speed while using a VPN, as it is constantly encrypting and decrypting your communications. Also, the distance between you and the remote server can be a factor in your speed reduction.
+
+Also, you will have to pay a fee to use the VPN. Usually its an annual fee, and I personally feel like it is worth it for the sense of security it provides. 
 
 #### How do I get a VPN?
 
@@ -70,5 +72,5 @@ There are many options available for setting up a VPN. You can host your own VPN
 
 ### Third, you want a reliable browser.
 
-### Bonus: Encrypted Messenger/Email
+### Bonus: Encrypted Messenger/Email & Non-Tracking Search Engines.
 [^1]: You will want to change this password regularly as well. the more often, the better.
