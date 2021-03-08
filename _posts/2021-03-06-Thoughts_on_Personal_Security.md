@@ -66,7 +66,7 @@ Yes, there is some give and take with a VPN. For instance, you will lose some sp
 
 #### How do I get a VPN?
 
-There are many options available for setting up a VPN. You can host your own VPN on separate server (locally or remotely in the cloud) and maintain the software and handle the networking (*This can be a lot of work. And if you can do this, then you won't be getting much out of this blog*). Or you can use one of the myraid VPN services out there.
+There are many options available for setting up a VPN. You can host your own VPN on separate server (locally or remotely in the cloud) and maintain the software and handle the networking (*This can be a lot of work. And if you can do this, then you won't be getting much out of this blog*). Or you can use one of the myriad VPN services out there.
 
 ### Third, you want a reliable browser.
 
