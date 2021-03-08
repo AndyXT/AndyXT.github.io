@@ -42,7 +42,7 @@ A few of the more popular and reputable passwords managers are [LastPass](https:
 
 No. Passwords are still not enough these days. with key loggers, phishing attacks, and various other methods, there are ways to get around having to guess your password. They can get it directly from you without your knowledge, and often times this is much easier and more effective.
 
-So now you're probably thinking, then whats the point of a password manager now? Well, its still your last defense, but there is many more walls you can put up. The best way to prevent some of these attack is to enable multi-factor authentication for all of your accounts. This makes it so you have to use a 2nd form of authentication along with your password. This most often takes the form of an authenitcator app on your phone that generates a new passcode on a set interval (15-30 seconds). When you input your password it will ask for the passcode, or alternatively you can verify it with the push of a button on your phone. LastPass offers an authentication app you can download for iphone or android. Microsoft, Google, and other large tech companies offer their own authenitcation apps as well.
+So now you're probably thinking, then whats the point of a password manager? Well, its still your last defense, but there is many more walls you can put up. The best way to prevent most of these attacks is to enable multi-factor authentication (MFA) for all of your accounts. This makes it so you have to use a 2nd form of authentication along with your password. Most services offer the ability to verify by sending a text to your phone. But there is a better way. This most often takes the form of an authenitcator app on your phone that generates a new passcode on a set interval (15-30 seconds). When you input your password it will ask for the passcode, or alternatively some will send notifications that ask you verify it with the push of a button on your phone. LastPass offers an authentication app you can download for iphone or android, and its compatible with most, if not all services that allow MFA. Alternatively, Microsoft, Google, and the other large tech companies offer their own authenitcation apps that are just as good. Its mostly up to your preference. However, many people find giving the large tech companies even more of their information quite distasteful..
 
 If the authentication app is still not secure enough for you, you can use a yubikey which is a physical USB key that contains the necessary encryption keys to authenticate you. There are even USB keys with finger print readers on them for further security. In most cases this is overkill.
 
@@ -52,7 +52,21 @@ One of the most risky things you can do is connect to public wifi. This opens yo
 
 However, the dangers are not limited to public wifi. If one is not careful with their router settings, their home wifi can fairly easily be hacked, and the wouldbe attacker can get all the information they want from your traffic or keystrokes.
 
-#### So how does one protect their 
+Finally, ISPs (Internet Service Providers) often take advantage of having logs of everyone's internet traffic by selling the information to the large tech companies looking to make money off of targeted advertising. And for many people, this predatory behavior alone is enough to make them look for a way to obscure their internet traffic. 
+
+The solution is to use a VPN (Virtual Private Network). 
+
+#### So what is a VPN?
+
+A VPN basically allows you to surf the web by going through a remote server that encrypts all of your traffic, and hides your location. This means anyone who manages to get into your wifi network, will be unable to make heads or tails of your traffic. They will see the encrypted communications being sent back and forth between you and the VPN server, while being unable to make heads or tails of what is being communicated. 
+
+#### Are there any downsides to a VPN?
+
+Yes, there is some give and take with a VPN. For instance, you will lose some speed while using a VPN, as it is constantly encrypting and decrypting your data.
+
+#### How do I get a VPN?
+
+There are many options available for setting up a VPN. You can host your own VPN on separate server (locally or remotely in the cloud) and maintain the software and handle the networking (*This can be a lot of work. And if you can do this, then you won't be getting much out of this blog*). Or you can use one of the myraid VPN services out there.
 
 ### Third, you want a reliable browser.
 
