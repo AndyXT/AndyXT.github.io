@@ -86,8 +86,6 @@ Finally, there is my new favorite browser, the [Brave Browser](https://brave.com
 
 #### What is Tor?
 
-
-
 ### Bonus: Encrypted Messenger/Email & Non-Tracking Search Engines.
 [^1]: You will want to change this password regularly as well. the more often, the better.
 [^2]: https://www.torproject.org/
