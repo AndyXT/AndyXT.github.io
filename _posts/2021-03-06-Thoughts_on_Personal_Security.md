@@ -72,9 +72,22 @@ There are many options available for setting up a VPN. You can host your own VPN
 
 There are many options, but the **2** that I would recommend are [ExpressVPN](https://www.expressvpn.com/) & [NordVPN](https://nordvpn.com/). With Express being slightly better performing, but at a premium price. NordVPN is what I use. Nord also offers their own password manager, which might be a good option if one wants to stick with a single ecosystem.
 
-Both services integrate seamlessly into your web browser, mobile phone, desktop, smart tv (If the app is available) and I believe even directly to your router (if it is compatible). The ease of use is really what you are paying for, and its worth every penny if you just want it to work without doing your own troubleshooting.  
+Both services integrate seamlessly into your web browser, mobile phone, desktop, smart tv (If the app is available) and I believe even directly to your router (if it is compatible). The ease of use is really what you are paying for, and its worth every penny if you just want it to work without doing your own troubleshooting.
 
 ### Third, you want a reliable browser.
 
+There is no shortage of browsers out there for use. I will list a few that I have used and like.
+
+First, there is Mozilla Firefox. It is the default browser for most Linux distributions, and the Mozilla Corporation has long been a proponent of free and open source software. Mozilla has just about every plug-in you can think of. 
+
+Next, there is Chrome, which was a good alternative, but recently has become rather bloated and slow in comparison to the other browsers. It can be a resource hog. Also, it has the downside of being owned by google, which does not always sit well with those worried about their privacy and data being used against them. 
+
+Finally, there is my new favorite browser, the [Brave Browser](https://brave.com/). It's a new open source browser co-created by the very person who created the JavaScript programming language, which a vast majority of our technology on the web runs on. The brave browser is completely free and open source, and puts its user's privacy first. However, my favorite feature of this browser is the ability to open a tab in Tor[^2].
+
+#### What is Tor?
+
+
+
 ### Bonus: Encrypted Messenger/Email & Non-Tracking Search Engines.
 [^1]: You will want to change this password regularly as well. the more often, the better.
+[^2]: https://www.torproject.org/
