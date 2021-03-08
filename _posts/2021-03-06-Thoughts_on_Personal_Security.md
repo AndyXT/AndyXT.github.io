@@ -58,17 +58,21 @@ The solution is to use a VPN (Virtual Private Network).
 
 #### So what is a VPN?
 
-A VPN basically allows you to surf the web by going through a remote server that encrypts all of your traffic, and hides your location. This means anyone who manages to get into your wifi network, will be unable to make heads or tails of your traffic. They will see the encrypted communications being sent back and forth between you and the VPN server, while being unable to make heads or tails of what is being communicated. 
+A VPN basically allows you to surf the web by going through a remote server that encrypts all of your traffic, while hiding your location. This means anyone who manages to get into your wifi network, will be unable to make heads or tails of your traffic. They will see the encrypted communications being sent back and forth between you and the VPN server, while being unable to make heads or tails of what is being communicated. 
 
 #### Are there any downsides to a VPN?
 
-Yes, there is some give and take with a VPN. For instance, you will lose some speed while using a VPN, as it is constantly encrypting and decrypting your communications. Also, the distance between you and the remote server can be a factor in your speed reduction.
+Yes, there is some give and take with a VPN. For instance, you will lose some speed while using a VPN, as it is constantly encrypting and decrypting your communications. Also, the distance between you and the remote server can be a factor in your speed reduction. However, for most cases, unless you are streaming 4k videos or doing competitive gaming, it shouldn't be an issue. 
 
 Also, you will have to pay a fee to use the VPN. Usually its an annual fee, and I personally feel like it is worth it for the sense of security it provides. 
 
 #### How do I get a VPN?
 
 There are many options available for setting up a VPN. You can host your own VPN on separate server (locally or remotely in the cloud) and maintain the software and handle the networking (*This can be a lot of work. And if you can do this, then you won't be getting much out of this blog*). Or you can use one of the myriad VPN services out there.
+
+There are many options, but the **2** that I would recommend are [ExpressVPN](https://www.expressvpn.com/) & [NordVPN](https://nordvpn.com/). With Express being slightly better performing, but at a premium price. NordVPN is what I use. Nord also offers their own password manager, which might be a good option if one wants to stick with a single ecosystem.
+
+Both services integrate seamlessly into your web browser, mobile phone, desktop, smart tv (If the app is available) and I believe even directly to your router (if it is compatible). The ease of use is really what you are paying for, and its worth every penny if you just want it to work without doing your own troubleshooting.  
 
 ### Third, you want a reliable browser.
 
