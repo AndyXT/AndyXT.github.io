@@ -19,12 +19,12 @@ or embarrassing social media posts (*If you're unlucky, this could cost you your
 #### So what exactly makes a strong password? 
 
 There are three criteria you must consider when creating a password. First of all, there is the obvious (although not so obvious that everyone practices it), you want 
-to make your password as complicated as possible (*Length, and a combiniation of numbers, symbols, and mixed cases*), **while still being able to remember it**.
+to make your password as complicated as possible (*Length, and a combination of numbers, symbols, and mixed cases*), **while still being able to remember it**.
 Secondly, you do not want to reuse your password on other accounts. This will give the would-be attacker access to multiple accounts if he gets ahold
 of it. But this leads to the issue of being able to remember the password each time you change it. And Thirdly, you want to change your password over time. 
 a password is always only a temporary protection. If someone wants to crack your password, they can brute force,
 or if you use a common password, use a dictionary attack. These tactics are simply guessing based on randomness or using a list
-of leaked passwords hoping you dont think too differently from others online (this tactic is very effective).
+of leaked passwords hoping you don't think too differently from others online (this tactic is very effective).
 
 #### So how does one meet the aforementioned criteria, while keeping track of our passwords?
 
@@ -42,7 +42,7 @@ A few of the more popular and reputable passwords managers are [LastPass](https:
 
 No. Passwords are still not enough these days. with key loggers, phishing attacks, and various other methods, there are ways to get around having to guess your password. They can get it directly from you without your knowledge, and often times this is much easier and more effective.
 
-So now you're probably thinking, then whats the point of a password manager? Well, its still your last defense, but there is many more walls you can put up. The best way to prevent most of these attacks is to enable multi-factor authentication (MFA) for all of your accounts. This makes it so you have to use a 2nd form of authentication along with your password. Most services offer the ability to verify by sending a text to your phone. But there is a better way. This most often takes the form of an authenitcator app on your phone that generates a new passcode on a set interval (15-30 seconds). When you input your password it will ask for the passcode, or alternatively some will send notifications that ask you verify it with the push of a button on your phone. LastPass offers an authentication app you can download for iphone or android, and its compatible with most, if not all services that allow MFA. Alternatively, Microsoft, Google, and the other large tech companies offer their own authenitcation apps that are just as good. Its mostly up to your preference. However, many people find giving the large tech companies even more of their information quite distasteful..
+So now you're probably thinking, then what's the point of a password manager? Well, its still your last defense, but there is many more walls you can put up. The best way to prevent most of these attacks is to enable multi-factor authentication (MFA) for all of your accounts. This makes it so you have to use a 2nd form of authentication along with your password. Most services offer the ability to verify by sending a text to your phone. But there is a better way. This most often takes the form of an authenticator app on your phone that generates a new passcode on a set interval (15-30 seconds). When you input your password it will ask for the passcode, or alternatively some will send notifications that ask you verify it with the push of a button on your phone. LastPass offers an authentication app you can download for iPhone or android, and its compatible with most, if not all services that allow MFA. Alternatively, Microsoft, Google, and the other large tech companies offer their own authentication apps that are just as good. Its mostly up to your preference. However, many people find giving the large tech companies even more of their information quite distasteful..
 
 If the authentication app is still not secure enough for you, you can use a yubikey which is a physical USB key that contains the necessary encryption keys to authenticate you. There are even USB keys with finger print readers on them for further security. In most cases this is overkill.
 
@@ -50,7 +50,7 @@ If the authentication app is still not secure enough for you, you can use a yubi
 
 One of the most risky things you can do is connect to public wifi. This opens you up for a plethora of attacks. Someone can easily intercept your traffic, and see every key you enter on your keyboard. However, it's difficult not to use public wifi in many cases. Especially for a student looking for a quiet place to study, if one is traveling for work, or if one is in a foreign country. In each cases using data can be prohibitively expensive. 
 
-However, the dangers are not limited to public wifi. If one is not careful with their router settings, their home wifi can fairly easily be hacked, and the wouldbe attacker can get all the information they want from your traffic or keystrokes.
+However, the dangers are not limited to public wifi. If one is not careful with their router settings, their home wifi can fairly easily be hacked, and the would-be attacker can get all the information they want from your traffic or keystrokes.
 
 Finally, ISPs (Internet Service Providers) often take advantage of having logs of everyone's internet traffic by selling the information to the large tech companies looking to make money off of targeted advertising. And for many people, this predatory behavior alone is enough to make them look for a way to obscure their internet traffic. 
 
