@@ -70,9 +70,9 @@ Also, you will have to pay a fee to use the VPN. Usually its an annual fee, and 
 
 There are many options available for setting up a VPN. You can host your own VPN on separate server (locally or remotely in the cloud) and maintain the software and handle the networking (*This can be a lot of work. And if you can do this, then you won't be getting much out of this blog*). Or you can use one of the myriad VPN services out there.
 
-There are many options, but the **2** that I would recommend are [ExpressVPN](https://www.expressvpn.com/) & [NordVPN](https://nordvpn.com/). With Express being slightly better performing, but at a premium price. NordVPN is what I use. Nord also offers their own password manager, which might be a good option if one wants to stick with a single ecosystem.
+There are many options, but the **3** that I would recommend are [ProtonVPN](https://protonvpn.com/), [ExpressVPN](https://www.expressvpn.com/) & [NordVPN](https://nordvpn.com/). With Express being slightly better performing, but at a premium price. NordVPN is what I use. Nord also offers their own password manager, which might be a good option if one wants to stick with a single ecosystem. Lastly, there's Proton[^3] which is a company that's very popular within communities who value privacy above all else. I haven't used their VPN, so I cant give much information on it, but they do have an email service that I will talk about later.
 
-Both services integrate seamlessly into your web browser, mobile phone, desktop, smart tv (If the app is available) and I believe even directly to your router (if it is compatible). The ease of use is really what you are paying for, and its worth every penny if you just want it to work without doing your own troubleshooting.
+All services integrate seamlessly into your web browser, mobile phone, desktop, smart tv (If the app is available) and I believe even directly to your router (if it is compatible). The ease of use is really what you are paying for, and its worth every penny if you just want it to work without doing your own troubleshooting.
 
 ### Third, you want a reliable browser.
 
@@ -89,3 +89,4 @@ Finally, there is my new favorite browser, the [Brave Browser](https://brave.com
 ### Bonus: Encrypted Messenger/Email & Non-Tracking Search Engines.
 [^1]: You will want to change this password regularly as well. the more often, the better.
 [^2]: https://www.torproject.org/
+[^3]: Offers the option to combine Tor and VPN network for the best anonymity possible.
